@@ -1,0 +1,316 @@
+{
+  "hero": {
+    "badge": "Available for Projects",
+    "heading": "Bridging the Gap Between Digital Innovation and Strategic Marketing",
+    "titles": [
+      "Digital Marketing Specialist",
+      "Content Creator",
+      "IT Solutions Architect",
+      "Full-Stack Developer",
+      "Professional Photographer"
+    ],
+    "description": "Crafting compelling digital experiences through strategic marketing, creative content, and cutting-edge technology solutions.",
+    "ctaText": "View My Work",
+    "ctaLink": "#portfolio",
+    "cvFile": "/cv/krisnanda-cv.pdf"
+  },
+  "about": {
+    "name": "Krisnanda Suaryana",
+    "photo": "/profile/profile.jpg",
+    "bio": [
+      "A passionate Digital Marketing Professional and IT Specialist based in Bali, Indonesia. With a unique blend of creative marketing expertise and technical development skills, I bridge the gap between digital innovation and strategic business growth.",
+      "My journey spans from crafting viral social media content reaching millions to building full-stack web applications and IT solutions that drive corporate efficiency. I believe technology and creativity are the two pillars of modern business success."
+    ],
+    "location": "Bali, Indonesia",
+    "education": [
+      {
+        "school": "SMA Negeri 1 Blahbatuh",
+        "period": "2018 — 2020",
+        "location": "Bali, Indonesia",
+        "description": "High School Education — Building the foundation for a career in technology and digital innovation."
+      },
+      {
+        "school": "Institut Bisnis dan Teknologi Indonesia",
+        "period": "2020 — 2024",
+        "location": "Bali, Indonesia",
+        "description": "Bachelor's Degree (S1) — Focused on Information Technology, software development, and digital systems."
+      }
+    ]
+  },
+  "career": [
+    {
+      "company": "Cellular World",
+      "role": "Content Creator & Marketing Communication",
+      "period": "2024 — Present",
+      "description": "#1 Electronic Retail in Bali. Spearheading digital content strategy across all major social media platforms.",
+      "achievement": "700+ viral contents across 8+ social media platforms, driving massive brand awareness and engagement.",
+      "icon": "TrendingUp",
+      "color": "from-blue-500 to-cyan-500"
+    },
+    {
+      "company": "Kohinoor Group",
+      "role": "Content Creator & Professional Photographer",
+      "period": "2025 — Present",
+      "description": "Gold & Precious Metal Jewelry brand. Managing end-to-end visual content production and digital advertising.",
+      "achievement": "Managing Meta Ads campaigns and professional product photography, elevating brand presence in the luxury market.",
+      "icon": "Camera",
+      "color": "from-amber-500 to-yellow-500"
+    },
+    {
+      "company": "Mandala Enterprises",
+      "role": "Founder — IT & Digital Agency",
+      "period": "2023 — Present",
+      "description": "Self-employed IT & Agency business. Building innovative IT platforms and digital solutions for corporate clients.",
+      "achievement": "Developed custom IT platforms that improve corporate efficiency and streamline business operations.",
+      "icon": "Code",
+      "color": "from-[var(--accent)] to-[var(--accent-secondary)]"
+    },
+    {
+      "company": "Amertha",
+      "role": "Founder — Agritech Business",
+      "period": "2023 — Present",
+      "description": "Personal business in the mushroom farm industry, pioneering the integration of technology for sustainable food production.",
+      "achievement": "Integrating IoT and automation technology into agricultural processes for sustainable and scalable farming.",
+      "icon": "Leaf",
+      "color": "from-green-500 to-emerald-500"
+    }
+  ],
+  "skills": {
+    "marketing": [
+      {
+        "name": "Meta Ads",
+        "icon": "Megaphone",
+        "level": 90
+      },
+      {
+        "name": "Creator Flow Planning",
+        "icon": "BarChart3",
+        "level": 85
+      },
+      {
+        "name": "Premiere Pro",
+        "icon": "Video",
+        "level": 88
+      },
+      {
+        "name": "CapCut",
+        "icon": "Layers",
+        "level": 92
+      }
+    ],
+    "it": [
+      {
+        "name": "HTML & CSS",
+        "icon": "Globe",
+        "level": 90
+      },
+      {
+        "name": "PHP & Laravel",
+        "icon": "Database",
+        "level": 82
+      },
+      {
+        "name": "JavaScript",
+        "icon": "Code2",
+        "level": 85
+      },
+      {
+        "name": "Next.js",
+        "icon": "MonitorSmartphone",
+        "level": 80
+      },
+      {
+        "name": "Flutter",
+        "icon": "Smartphone",
+        "level": 75
+      },
+      {
+        "name": "GitHub",
+        "icon": "GitBranch",
+        "level": 88
+      },
+      {
+        "name": "UI/UX Design",
+        "icon": "Palette",
+        "level": 78
+      },
+      {
+        "name": "Antigravity",
+        "icon": "Sparkles",
+        "level": 85
+      }
+    ]
+  },
+  "portfolio": {
+    "marketing": [
+      {
+        "title": "Cellular World",
+        "subtitle": "Instagram Reels",
+        "description": "Konten promosi produk smartphone dengan storytelling visual yang menarik.",
+        "reelUrl": "https://www.instagram.com/reel/DVU4gSDk-JW/?igsh=NmVhYW03M2JvaW4y",
+        "thumbnail": "",
+        "gradient": "from-pink-500 via-purple-500 to-indigo-500",
+        "account": "@cellularworld.id"
+      },
+      {
+        "title": "Cellular World",
+        "subtitle": "Social Media Content",
+        "description": "Viral content strategy across 8+ platforms, reaching millions of views.",
+        "reelUrl": "https://www.instagram.com/cellularworld.id/",
+        "thumbnail": "/portfolio/gaming-portable-1773573533815.png",
+        "gradient": "from-blue-500 via-cyan-500 to-teal-500",
+        "account": "@cellularworld.id"
+      },
+      {
+        "title": "Kohinoor Jewelry",
+        "subtitle": "Brand Photography",
+        "description": "Professional product photography and Meta Ads campaign management.",
+        "reelUrl": "https://www.instagram.com/kohinoor_group/",
+        "thumbnail": "",
+        "gradient": "from-amber-500 via-orange-500 to-red-500",
+        "account": "@kohinoor_group"
+      },
+      {
+        "title": "Creative Campaign",
+        "subtitle": "Digital Marketing",
+        "description": "End-to-end digital marketing campaigns with measurable ROI.",
+        "reelUrl": "https://www.instagram.com/",
+        "thumbnail": "",
+        "gradient": "from-rose-500 via-pink-500 to-fuchsia-500",
+        "account": "@krisnanda"
+      }
+    ],
+    "it": [
+      {
+        "title": "Creator Flow Web App",
+        "subtitle": "Full-Stack Web App",
+        "description": "Custom IT platform built with Laravel to streamline corporate operations.",
+        "liveUrl": "https://creatorflow-azure.vercel.app/",
+        "gradient": "from-indigo-500 to-blue-500"
+      },
+      {
+        "title": "Serati Sedana Desa",
+        "subtitle": "Web e-commerce Aplication",
+        "description": "Built a specialized marketplace for 'Banten' products with end-to-end features, including secure payment gateway integration and real-time shipping rate automation.",
+        "liveUrl": "https://seratisedanadesa.id/",
+        "gradient": "from-green-500 to-emerald-500"
+      },
+      {
+        "title": "Portfolio Website",
+        "subtitle": "React / Next.js",
+        "description": "Personal portfolio site featuring glassmorphism and Framer Motion animations.",
+        "liveUrl": "https://example.com",
+        "gradient": "from-[var(--accent)] to-[var(--accent-secondary)]"
+      },
+      {
+        "title": "Agritech Dashboard",
+        "subtitle": "Flutter / IoT",
+        "description": "IoT-connected dashboard for monitoring sustainable mushroom farming operations.",
+        "liveUrl": "https://example.com",
+        "gradient": "from-teal-500 to-cyan-500"
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "title": "3rd Winner Business Plan Denpasar",
+      "description": "Digitalizing 'Bali Mebanten' application: From conventional workflows to a digital platform, outperforming 50+ competitors.",
+      "image": "/achievements/Screenshot-2026-03-16-165632-1773651431969.png",
+      "link": "https://www.instagram.com/p/DEy8s5Xzocm/?igsh=MWJkbDZiMzlhc25rcw=="
+    },
+    {
+      "title": "Awardee Innovillage 2024",
+      "description": "Awarded 20 million IDR for providing digital solutions to village problems through innovative technology.",
+      "image": "/achievements/instikiofficial-20240116_165816-623305304_18055811171679501_8422571319907850804_n-1773652455986.jpeg",
+      "link": "https://www.instagram.com/p/C2JvD3_vdzn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "title": "3rd Winner Of Bali Digifest",
+      "description": "Created virmata.id, a dedicated web-based platform serving as a marketplace for virtual tours.",
+      "image": "/achievements/DSC02678-1773653954912.jpg",
+      "link": "https://www.instagram.com/krisnandaputu/"
+    },
+    {
+      "title": "PKM KEMENDIKBUD Awardee",
+      "description": "Awarded research and community service funding from the Ministry of Education, Culture, Research, and Technology (Kemendikbudristek) for a community-based technology implementation project (PKM-PM).",
+      "image": "/achievements/pkmsumita-2023-20231010_103613-387702042_6593988684054652_9087027799561664833_n-1773653533214.jpeg",
+      "link": "https://www.instagram.com/p/CyL6qq-vGCt/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Google Ads Creative Certification",
+      "issuer": "Google",
+      "year": "2024",
+      "image": "/certs/google-ads-creative.png"
+    },
+    {
+      "title": "Best of Digital Marketing Essentials 2024",
+      "issuer": "Udemy",
+      "year": "2024",
+      "image": "/certs/digital-marketing-essentials.jpg"
+    },
+    {
+      "title": "Master Course in Advanced SEO",
+      "issuer": "Udemy",
+      "year": "2024",
+      "image": "/certs/advanced-seo.jpg"
+    },
+    {
+      "title": "Mastering Social Media Marketing: Brand Building & Growth",
+      "issuer": "Udemy",
+      "year": "2024",
+      "image": "/certs/social-media-marketing.jpg"
+    },
+    {
+      "title": "TOEIC (Test of English for International Communication)",
+      "issuer": "TOEIC",
+      "year": "2024",
+      "image": "/certs/I-Putu-Krisnanda-Suaryana-TOEIC-1773647130106.jpg"
+    },
+    {
+      "title": "Microsoft Excel (Office 2019)",
+      "issuer": "Microsoft",
+      "year": "2023",
+      "image": "/certs/Sertifikasi-Excel-I-Putu-Krisnanda-Suaryana_page-0001-1773647417223.jpg"
+    },
+    {
+      "title": "Information Technology Specialist Databases",
+      "issuer": "Certiport",
+      "year": "2023",
+      "image": "/certs/Database_I-Putu-Krisnanda-Suaryana-1773647517211.jpg"
+    },
+    {
+      "title": "3rd Winner BALIGIVATION Festival 2023",
+      "issuer": "Bank Indonesia & FEKDI",
+      "year": "2023",
+      "image": "/certs/I-PUTU-KRISNANDA-SUARYANA--1--1773653796332.jpg"
+    }
+  ],
+  "footer": {
+    "tagline": "Digital Marketing Professional & IT Specialist based in Bali, Indonesia. Bridging the gap between digital innovation and strategic marketing.",
+    "email": "hello@krisnanda.com",
+    "social": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/",
+        "icon": "Instagram"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/",
+        "icon": "Github"
+      },
+      {
+        "platform": "Email",
+        "url": "mailto:hello@krisnanda.com",
+        "icon": "Mail"
+      }
+    ]
+  }
+}
