@@ -96,7 +96,7 @@ const sections: { key: SectionKey; label: string; icon: React.ReactNode }[] = [
 ];
 
 // ======================== HELPERS ========================
-function Input({ label, value, onChange, ...props }: { label: string; value: string; onChange: (v: string) => void } & React.InputHTMLAttributes<HTMLInputElement>) {
+function Input({ label, value, onChange, ...props }: { label: string; value: string; onChange: (v: string) => void } & Omit<React.InputHTMLAttributes<HTMLInputElement>, 'onChange'>) {
   return (
     <div>
       <label className="block text-xs font-medium text-gray-400 mb-1.5">{label}</label>
