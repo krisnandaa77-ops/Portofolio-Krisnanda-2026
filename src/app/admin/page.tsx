@@ -96,15 +96,18 @@ const sections: { key: SectionKey; label: string; icon: React.ReactNode }[] = [
 ];
 
 // ======================== HELPERS ========================
-function Input({ label, value, onChange, ...props }: { label: string; value: string; onChange: (v: string) => void } & Omit<React.InputHTMLAttributes<HTMLInputElement>, 'onChange'>) {
+function Input({ label, value, onChange, type, placeholder, min, max }: { label: string; value: string; onChange: (v: string) => void; type?: string; placeholder?: string; min?: number; max?: number }) {
   return (
     <div>
       <label className="block text-xs font-medium text-gray-400 mb-1.5">{label}</label>
       <input
         value={value}
         onChange={(e) => onChange(e.target.value)}
+        type={type}
+        placeholder={placeholder}
+        min={min}
+        max={max}
         className="w-full px-3 py-2.5 bg-[#0a0a0a] border border-[#333] rounded-lg text-white text-sm placeholder-gray-600 focus:outline-none focus:border-purple-500 transition-colors"
-        {...props}
       />
     </div>
   );
